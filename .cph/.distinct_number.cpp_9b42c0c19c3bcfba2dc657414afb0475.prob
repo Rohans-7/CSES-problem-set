@@ -1,0 +1,1 @@
+{"name":"Local: distinct_number","url":"d:\\Programming\\CSES problem set\\distinct_number.cpp","tests":[{"id":1715373357427,"input":"5\n2 3 2 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\CSES problem set\\distinct_number.cpp","group":"local","local":true}
